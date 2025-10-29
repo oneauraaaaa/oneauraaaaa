@@ -1,11 +1,11 @@
 <h1 align="center">i am oneaura <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align= "center">
-  🎮 Professional Minecraft player
+  🎮 pro minecraft player
 </p>
 
 <p align= "center">
-    🔭 Coding For Fun
+    🔭 vibecoder
 </p>
 
 <h3 align="center">Connect with me:</h3>
